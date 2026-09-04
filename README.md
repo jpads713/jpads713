@@ -98,7 +98,7 @@ Olá! Meu nome é João Pedro, tenho 19 anos e formado em Técnico em Informáti
 
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -106,7 +106,7 @@ Olá! Meu nome é João Pedro, tenho 19 anos e formado em Técnico em Informáti
   />
 
 <img 
-      align="left" 
+      align="center" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=jpads713&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
@@ -117,7 +117,7 @@ Olá! Meu nome é João Pedro, tenho 19 anos e formado em Técnico em Informáti
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavo144p/gustavo144p/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavo144p/gustavo144p/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustavo144p/gustavo144p/output/github-contribution-grid-snake.svg">
+  
 </picture>
 
 <img src="https://raw.githubusercontent.com/Gustavo144p/Gustavo144p/output/snake.svg" alt="Snake animation" />
